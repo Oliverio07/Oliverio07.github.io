@@ -10,7 +10,6 @@ body {
     linear-gradient(#eee 0.1em, transparent 0.1em);
   background-size: 100% 1.2em;
 }
-
 .footer {
   display: flex;
   justify-content: center;
