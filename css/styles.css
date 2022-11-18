@@ -15,11 +15,11 @@ body {
   color: black;
 }
 
-.aboutMeContainer{
-margin-top: -40px;
+.aboutMeContainer {
+  margin-top: -40px;
 }
 
-.aboutMeDesc{
+.aboutMeDesc {
   margin-top: -10px;
 }
 
@@ -30,9 +30,5 @@ margin-top: -40px;
   height: 2rem;
   width: 100%;
   background: black;
-}
-
-.footer a {
   color: white;
-  font-size: 15px;
 }
